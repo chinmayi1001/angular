@@ -1,0 +1,24 @@
+npm init
+npm install -g @angular/cli
+ng new my-app
+cd my-app
+ng serve
+
+
+npm init
+npm install -g @angular/cli
+cd angular
+
+C:\Users\Chinmayee\Desktop\Angular\angular>cd my-app
+
+ng serve
+npm install ng-server
+ng serve
+
+
+
+npm install -g json-server
+
+json-server --watch db.json
+
+  
